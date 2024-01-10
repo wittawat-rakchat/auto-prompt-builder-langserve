@@ -1,3 +1,5 @@
+BY LangChain and Harrison repo (https://github.com/hwchase17/auto-openai-prompter)
+
 # auto-openai-prompter
 
 ## Installation
